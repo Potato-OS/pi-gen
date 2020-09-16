@@ -1,5 +1,7 @@
 2020-09-15:
   * Created PotatoOS (Fork of Raspbian)
+  * Notes before this are from Raspbian
+  * Notes after this can be added, but aren't always. Check git for a full list of changes
 2020-08-20:
   * raspi-config - added selection of boot device order
   * raspi-config - added selection of boot EEPROM version
